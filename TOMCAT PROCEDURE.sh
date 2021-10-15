@@ -2,7 +2,7 @@
 
 #Script to setup Tomcat on centOS/RHEL 6.x and 7.x
 
-#Author Apoti Eri (Lionel)  May 2021
+#Author N.M
 
 # Check if running as root
 if [ "$(id -u)" != "0" ]; then
